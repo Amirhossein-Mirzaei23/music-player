@@ -48,13 +48,13 @@ let li1=document.getElementById("li1")
 let bgIndex=0
 //// bg-gradiant theme
 let bgSrc=[
-    "/gif/snow.gif"
-    ,"/gif/space.gif"
-    ,"/gif/sunrise.gif"
-    ,"/gif/proggold.gif"
-    ,"/gif/cloud.gif"
-    ,"/gif/bangok.gif"
-    ,"/gif/lightgame.gif"
+    "gif/snow.gif"
+    ,"gif/space.gif"
+    ,"gif/sunrise.gif"
+    ,"gif/proggold.gif"
+    ,"gif/cloud.gif"
+    ,"gif/bangok.gif"
+    ,"gif/lightgame.gif"
 ]
 
 let musicSrc=[
